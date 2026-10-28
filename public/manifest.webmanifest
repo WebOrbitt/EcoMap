@@ -1,0 +1,9 @@
+{
+  "name": "ecomap",
+  "short_name": "EcoMap",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8faf7",
+  "theme_color": "#237a50",
+  "description": "Explore cleaner places and build a healthier community."
+}
